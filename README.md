@@ -1,2 +1,2 @@
 # CURSO-EBAC
-MAterial desenvolvido no curso de Qalidade de Software
+Material desenvolvido no curso de Qualidade de Software
